@@ -15,4 +15,5 @@
 - For code changes, run the selected workshop's available regression check from the repository root:
   - 104: `python3 -B 104-safe-cracker/test_safe_cracker.py`
   - 202: `python3 -B 202-anomaly-dial/test_anomaly_dial.py`
+  - 203: `python3 -B 203-rhythm-key/test_rhythm_key.py`
 - For nontrivial logic without a check, add one small runnable regression check in that workshop. Report App Lab import, board compilation, and physical behavior as unverified unless tested on the UNO Q.
