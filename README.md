@@ -24,6 +24,7 @@ Collect examples, train local models, and use predictions to drive physical feed
 | `201: Gesture Dial` | Train a personal edge-AI dial that recognizes rotation gestures and expresses prediction confidence. | UNO Q, Modulino Knob, Pixels, and Vibro | [View content](./201-gesture-dial/) |
 | `202: Anomaly Dial` | Learn normal dial movement locally and flag unusual speed, duration, or direction changes.           | UNO Q, Modulino Knob, Pixels, and Vibro | [View content](./202-anomaly-dial/) |
 | `203: Rhythm Key` | Train three personal tapping rhythms and recognize them using the knob's pushbutton. | UNO Q, Modulino Knob, Pixels, and Vibro | [View content](./203-rhythm-key/) |
+| `204: Pocket Pet` | Teach a light-and-vibration pet your preferences through rewards and exploration. | UNO Q, Modulino Knob, Pixels, and Vibro | [View content](./204-pocket-pet/) |
 
 ## Choose the right workshop files
 
