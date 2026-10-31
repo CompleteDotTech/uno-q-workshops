@@ -25,6 +25,7 @@ Collect examples, train local models, and use predictions to drive physical feed
 | `202: Anomaly Dial` | Learn normal dial movement locally and flag unusual speed, duration, or direction changes.           | UNO Q, Modulino Knob, Pixels, and Vibro | [View content](./202-anomaly-dial/) |
 | `203: Rhythm Key` | Train three personal tapping rhythms and recognize them using the knob's pushbutton. | UNO Q, Modulino Knob, Pixels, and Vibro | [View content](./203-rhythm-key/) |
 | `204: Pocket Pet` | Teach a light-and-vibration pet your preferences through rewards and exploration. | UNO Q, Modulino Knob, Pixels, and Vibro | [View content](./204-pocket-pet/) |
+| `205: Reflex Lab` | Learn personal light and vibration reaction-time baselines, then score fresh challenges. | UNO Q, Modulino Knob, Pixels, and Vibro | [View content](./205-reflex-lab/) |
 
 ## Choose the right workshop files
 

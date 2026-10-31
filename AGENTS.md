@@ -17,4 +17,5 @@
   - 202: `python3 -B 202-anomaly-dial/test_anomaly_dial.py`
   - 203: `python3 -B 203-rhythm-key/test_rhythm_key.py`
   - 204: `python3 -B 204-pocket-pet/test_pocket_pet.py`
+  - 205: `python3 -B 205-reflex-lab/test_reflex_lab.py`
 - For nontrivial logic without a check, add one small runnable regression check in that workshop. Report App Lab import, board compilation, and physical behavior as unverified unless tested on the UNO Q.
